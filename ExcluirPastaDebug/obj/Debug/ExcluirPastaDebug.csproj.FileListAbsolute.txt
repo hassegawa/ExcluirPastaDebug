@@ -1,0 +1,6 @@
+E:\Unidade2\SubVersionPen\Projetos\CSharp\ExcluirPastaDebug\ExcluirPastaDebug\bin\Debug\ExcluirPastaDebug.exe.config
+E:\Unidade2\SubVersionPen\Projetos\CSharp\ExcluirPastaDebug\ExcluirPastaDebug\bin\Debug\ExcluirPastaDebug.exe
+E:\Unidade2\SubVersionPen\Projetos\CSharp\ExcluirPastaDebug\ExcluirPastaDebug\bin\Debug\ExcluirPastaDebug.pdb
+E:\Unidade2\SubVersionPen\Projetos\CSharp\ExcluirPastaDebug\ExcluirPastaDebug\obj\Debug\ExcluirPastaDebug.exe
+E:\Unidade2\SubVersionPen\Projetos\CSharp\ExcluirPastaDebug\ExcluirPastaDebug\obj\Debug\ExcluirPastaDebug.pdb
+E:\Unidade2\SubVersionPen\Projetos\CSharp\ExcluirPastaDebug\ExcluirPastaDebug\obj\Debug\ExcluirPastaDebug.csprojResolveAssemblyReference.cache
